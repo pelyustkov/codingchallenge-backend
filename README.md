@@ -3,7 +3,7 @@
 A boilerplate ExpressJS project will start and will reload automatically on every saved change.
 
 - Clone project
-- Create branch in this format: `challenge-[yourname]`
+- Create branch from `develop` in this format: `challenge-[yourname]`
 - `yarn install`
 - `yarn start`
 - Do stuff
