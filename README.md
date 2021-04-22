@@ -1,7 +1,11 @@
 # CodingChallenge Backend
 
+A boilerplate ExpressJS project will start and will reload automatically on every saved change.
+
 - Clone project
+- Create branch in this format: `challenge-[yourname]`
 - `yarn install`
 - `yarn start`
-
-A boilerplate ExpressJS project will start which will reload automatically on every saved change.
+- Do stuff
+- Push your changes in your branch
+  
